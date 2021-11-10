@@ -5,7 +5,6 @@ Computer write the number and predict it
 
 import numpy as np
 
-
 def random_predict(number:int=1) -> int:
     """Random predict number
 
