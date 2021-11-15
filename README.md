@@ -8,3 +8,4 @@ From the[Skill Factory Data Science course](https://skillfactory.ru/data-science
 * [Проект 1. __](___)
 * [Проект 2. __](___)
 
+
